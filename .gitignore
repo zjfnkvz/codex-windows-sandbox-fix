@@ -1,0 +1,4 @@
+work/
+*.sqlite
+*.log
+*.tmp
